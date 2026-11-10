@@ -1,0 +1,2 @@
+# Bison/Flex output intentionally preserves generator-emitted whitespace.
+src/generated/*.cpp whitespace=-trailing-space,-blank-at-eof
